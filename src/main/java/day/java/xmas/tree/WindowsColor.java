@@ -1,5 +1,8 @@
-package day.java.xmas;
+package day.java.xmas.tree;
 
+/**
+ * windows OS 색상 스키마
+ */
 public class WindowsColor {
     // Reset
     public static final String RESET = "\033[0m";  // Text Reset
